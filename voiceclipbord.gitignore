@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and history
+*.log
+history.txt
+
+# Whisper model folder
+whisper-main/
